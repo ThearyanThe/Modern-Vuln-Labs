@@ -20,3 +20,6 @@ make run-lab LAB=01-union-based-sqli
 - Docker
 - Docker Compose
 - Make (optional)
+  
+## License
+MIT
